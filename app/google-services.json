@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510020556170",
+    "firebase_url": "https://fir-uitest-7dbbd.firebaseio.com",
+    "project_id": "fir-uitest-7dbbd",
+    "storage_bucket": "fir-uitest-7dbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510020556170:android:8715482e890c7716d2a473",
+        "android_client_info": {
+          "package_name": "biswas.video.blog.firebaseuitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510020556170-6v0v3i5cqgij42rnab5ioo36vrhh0aln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biswas.video.blog.firebaseuitest",
+            "certificate_hash": "dabd4c942e9caf86a41de9685b48be944ca9c30b"
+          }
+        },
+        {
+          "client_id": "510020556170-nael0os035l72q3tnt5i2i59ffht1sgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQnqcZbOIchCsN8l2t-CXupWoNQu3ApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510020556170-nael0os035l72q3tnt5i2i59ffht1sgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
